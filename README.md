@@ -23,7 +23,7 @@
 
 - 👨🏽‍💻 Atualmente sou Coordenador de TI trabalhando em diferentes projetos;
 - 💼 Sou formado em Sistemas de Informação e Pós graduado em Arquitetura de Soluções;
-- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
+- 💬 Me Pergunte sobre qualquer coisa, fico feliz em ajudar;
 - 📫 Envie um email para fsf.freitas@hotmail.com para me contactar. <!-- 📫 Envie um email para [! [Email] (https://img.shields.io/badge/fsf.freitas@hotmail.com-D14836 ? style = flat-square & logo = gmail & logoColor = white)] (mailto: fsf.freitas@hotmail.com) para me contactar. -->
 - 📝 Veja meu [Curriculum Vitae] (https://www.linkedin.com/in/fernando-sfreitas/) para obter mais informações.
 
