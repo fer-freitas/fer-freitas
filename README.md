@@ -18,7 +18,6 @@
 <br />
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
   
 **Falando sobre Coisas Pessoais:**
 
@@ -41,8 +40,8 @@
 <code><img align="center" alt="Fer-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 
 
-![Bishal's github stats](https://github-readme-stats.vercel.app/api?username=fer-freitas&show_icons=true&hide_border=true)
-![Bishal's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fer-freitas&show_icons=true&hide_border=true")
+![Bishal's github stats](https://github-readme-stats.vercel.app/api?username=fer-freitas&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true")
+![Bishal's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fer-freitas&show_icons=true&hide_border=true&&layout=compact&langs_count=7&theme=dracula")
 
 
 <br />
