@@ -1,23 +1,19 @@
-### Olá 👋, Eu sou Fernando Freitas
 
+### Olá 👋, Eu sou Fernando Freitas
+<br>
 <a href="https://www.linkedin.com/in/fernando-sfreitas/">
   <img align="left" alt="Fer-LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/freitas_fsf">
   <img align="left" alt="Bishal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<!--<a href="https://www.instagram.com/officialbishal/">
-  <img align="left" alt="Bishal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/modernbishal">
-  <img align="left" alt="Bishal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>-->
-
-
-<br />
-<br />
+<br>
+<hr>
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+
+  
   
 **Falando sobre Coisas Pessoais:**
 
@@ -39,12 +35,15 @@
 <code><img align="center" alt="Fer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img align="center" alt="Fer-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 
+<br>
+<hr>
 
-![Bishal's github stats](https://github-readme-stats.vercel.app/api?username=fer-freitas&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true")
-![Bishal's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fer-freitas&show_icons=true&hide_border=true&&layout=compact&langs_count=7&theme=dracula")
+![Bishal's github stats](https://github-readme-stats.vercel.app/api?username=fer-freitas&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true")
+![Bishal's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fer-freitas&layout=compact&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true")
 
 
 <br />
+
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fer-freitas.fer-freitas) -->
 <p align="center">
