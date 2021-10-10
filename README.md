@@ -24,9 +24,6 @@
 - 📝 Veja meu [Curriculum Vitae] (https://www.linkedin.com/in/fernando-sfreitas/) para obter mais informações.
 
 <br>
-<br>
-<br>
-<br>
 
 **Linguagens e Ferramentas:**  
 
