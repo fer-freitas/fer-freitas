@@ -23,6 +23,8 @@
 - 📫 Envie um email para fsf.freitas@hotmail.com para me contactar. <!-- 📫 Envie um email para [! [Email] (https://img.shields.io/badge/fsf.freitas@hotmail.com-D14836 ? style = flat-square & logo = gmail & logoColor = white)] (mailto: fsf.freitas@hotmail.com) para me contactar. -->
 - 📝 Veja meu [Curriculum Vitae] (https://www.linkedin.com/in/fernando-sfreitas/) para obter mais informações.
 
+<br>
+<br>
 
 **Linguagens e Ferramentas:**  
 
